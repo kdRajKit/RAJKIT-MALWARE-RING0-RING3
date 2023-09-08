@@ -1,0 +1,10 @@
+﻿C:\Users\RajKit\Desktop\ByePg-master\ExceptionHookingDemo\ExceptionHookingDemo.vcxproj(32,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.props" no se puede volver a importar. Ya se importó en "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Shared.props (352,3)". Lo más probable es que se trate de un error al crear la compilación. Se omitirá esta importación. 
+C:\Users\RajKit\Desktop\ByePg-master\ExceptionHookingDemo\ExceptionHookingDemo.vcxproj(73,5): warning MSB4011: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets" no se puede volver a importar. Ya se importó en "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets (1878,3)". Lo más probable es que se trate de un error al crear la compilación. Se omitirá esta importación. 
+  Building 'KPP_NO_HOOK' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (ExceptionHookingDemo.vcxproj, ExceptionHookingDemo2.vcxproj, ExceptionHookingDemo3.vcxproj, KPP_HOOK.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Building 'ByePgLib' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  main.cpp
+C:\Users\RajKit\Desktop\ByePg-master\Includes\ByePg.h(17,23): warning C4518: '__declspec(dllimport)': no se esperaban especificadores de tipo o clase de almacenamiento aquí; se han omitido
+C:\Users\RajKit\Desktop\ByePg-master\Includes\ByePg.h(17,23): warning C4502: La 'especificación de vinculación' requiere el uso de la palabra clave 'extern' y debe preceder al resto de los especificadores
+  ExceptionHookingDemo.vcxproj -> C:\Users\RajKit\Desktop\ByePg-master\Output\KPP_NO_HOOK.sys
+  Driver is 'Universal'.
