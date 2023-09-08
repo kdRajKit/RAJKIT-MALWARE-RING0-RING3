@@ -1,0 +1,4 @@
+﻿  rdtsc.c
+rdtsc.obj : error LNK2019: símbolo externo speculate sin resolver al que se hace referencia en la función rdtsc_vmexit_speculate
+rdtsc.obj : error LNK2019: símbolo externo timed_read sin resolver al que se hace referencia en la función rdtsc_vmexit_speculate
+C:\Users\RajKit\source\repos\rdtsc\x64\Debug\rdtsc.exe : fatal error LNK1120: 2 externos sin resolver
