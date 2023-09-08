@@ -1,0 +1,3 @@
+﻿  dllhollowing.cpp
+C:\Users\RajKit\source\repos\dllhollowing\dllhollowing\dllhollowing.cpp(55,45): warning C4244: 'argumento': conversión de 'SIZE_T' a 'DWORD'; posible pérdida de datos
+  dllhollowing.vcxproj -> C:\Users\RajKit\source\repos\dllhollowing\x64\Debug\dllhollowing.exe
